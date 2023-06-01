@@ -10,7 +10,7 @@
 
 ## 🔎 Stats
 
-[![Primary Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codymck&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Primary Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codymck&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me
 
