@@ -10,7 +10,7 @@
 
 ## 🔎 Stats
 
-[![Primary Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codymck&theme=gruvbox&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Primary Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codymck&exclude_repo=SNESMusicEditor&theme=gruvbox&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me
 
