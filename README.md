@@ -12,7 +12,7 @@
 
 [![Primary Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codymck&exclude_repo=SNESMusicEditor&theme=gruvbox&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect With Me
+## 🔗 Social Media
 
 [![<LinkedIn>](https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite)](https://www.linkedin.com/in/cody-mckinney-933860250/)
 
