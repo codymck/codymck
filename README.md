@@ -4,8 +4,6 @@
 
 🎓 I graduated in 2023 with a bachelor's degree in Software Engineering from California State University, San Marcos.
 
-📚 I am currently learning Rust.
-
 ⚡ I have worked on a variety of projects, including desktop applications, websites, databases, and cloud services, but I am primarily focused on learning more about embedded systems in my free time.
 
 ## 🔎 Stats
